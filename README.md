@@ -9,7 +9,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
  - [x] Block 1: Introduction - Unix & Shell
  
-- [ ] 1-3: Unix & Bash - Part 1
+- [x] 1-3: Unix & Bash - Part 1
 - [x] 1-4: Unix & Bash - Part 2
 - [x] 1-5: Shell Script
 
@@ -18,9 +18,9 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 2-2: Understanding the commands
 - [x] 2-3: Internet - Understanding how it works
 
-- Block 3: Introduction - HTML & CSS
+- [ ] Block 3: Introduction - HTML & CSS
 - [x] 3-1: HTML & CSS - Page structures
 - [x] 3-2: HTML & CSS - Getting Started with CSS
 - [x] 3-3: HTML & CSS - Selectors and positioning
 - [x] 3-4: Semantic HTML
-- 3-5: Project - HTML & CSS
+- [ ] 3-5: Project - HTML & CSS
