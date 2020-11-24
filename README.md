@@ -5,7 +5,7 @@ This repository contains all learning activities developed by [Igor Machado](htt
 
 The program has more than 1,500 hours of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
  
- ## Introduction - Web Development white_check_mark
+ ## Introduction - Web Development white_check_mark :white_check_mark:
 
  - [x] Block 1: Introduction - Unix & Shell
  
